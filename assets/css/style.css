@@ -1,0 +1,70 @@
+
+
+#design {
+  color : white;
+  background-image: url(../images/avengers.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-design {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+
+.alert {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: bold;
+  color: red;
+}
+
+h1 {
+  width: 100%; 
+  margin: auto;
+  padding-top: 30%;
+  padding-bottom: 10px;
+  font-size: 79px;
+}
+
+.bottom {
+  padding-bottom: 10%;
+}
+
+#guess {
+  margin: auto;
+  font-size: 36px;
+  margin-bottom: 45px;
+}
+
+.body-design {
+  text-align: center;
+  width: 80%;
+}
+
+.size {
+  font-size: 28px;
+  text-align: left;
+  padding-left: 40%;
+  margin-bottom: 30px;
+}
+
+.sizeNumber {
+  font-size: 28px;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-right: 30px;
+}
+
+#img {
+  margin: 0 auto;
+}
+
+#winImage {
+  width:300px;
+  
+}
